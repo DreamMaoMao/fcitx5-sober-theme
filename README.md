@@ -4,5 +4,5 @@
 # install
 ```bash
 git clone https://github.com/DreamMaoMao/fcitx5-sober-theme.git sober
-sudo cp sober /usr/share/fcitx5/themes/ -r
+cp sober ~/.local/share/fcitx5/themes/ -r
 ```
