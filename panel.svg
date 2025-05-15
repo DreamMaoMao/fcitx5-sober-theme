@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+  <g>
+    <!-- 外层边框（加粗 stroke-width="4"） -->
+    <rect x="2" y="2" width="36" height="36" fill="none" stroke="#a39678" stroke-width="4" rx="2"/>
+    <!-- 内层内容（保持不变） -->
+    <rect x="3" y="3" width="34" height="34" fill="#201B14" stroke="#000" stroke-width="1" rx="2"/>
+  </g>
+</svg>
